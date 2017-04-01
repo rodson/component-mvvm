@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/rodson/component-mvvm.git",
   "author": "rodsonluo <rodsonluo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }

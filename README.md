@@ -1,1 +1,1 @@
-a react redux demo
+mvvm component demo

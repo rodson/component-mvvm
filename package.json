@@ -1,0 +1,9 @@
+{
+  "name": "component-mvvm",
+  "version": "1.0.0",
+  "description": "an application based on component and mvvm",
+  "main": "index.js",
+  "repository": "https://github.com/rodson/component-mvvm.git",
+  "author": "rodsonluo <rodsonluo@gmail.com>",
+  "license": "MIT"
+}
